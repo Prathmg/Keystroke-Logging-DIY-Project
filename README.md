@@ -27,3 +27,24 @@ View real-time updates on the screen
 Logs are automatically saved in:
 logs.json
 logs.txt
+
+🎓 Learning Outcomes
+Understanding event-driven programming
+Working with GUI in Python
+Handling keyboard inputs
+Reading and writing JSON and text files
+🔐 Ethical Note
+
+This project is designed for educational purposes only.
+It captures keyboard input only within the application window and does not monitor system-wide activity.
+
+⭐ Contribution
+
+Feel free to fork this repository and improve it by adding new features like:
+
+Typing speed calculator
+Data visualization
+Export to Excel
+📌 Author
+
+Prathmesh Gangode
